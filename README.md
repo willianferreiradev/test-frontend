@@ -23,14 +23,16 @@ Tela de login
 - Filtrar clientes cadastrados por ordem decrescente
 - Filtro para buscar cliente por nome
 
-### Stack Desejável
+## Stack Desejável
 
-- ReatJs/NextJs
-- Material UI/ Style components
-- Boa organização do código
-- Boa estruturação do projeto
-- Desktop First
-- Commit’s legíveis, não commit ATÓMICO
+|                                                               |   |
+|---------------------------------------------------------------|---|
+| ReatJs/NextJs                                                 | ✔ |
+| Material UI/ Style components                                 | ✔ |
+| Boa organização do código                                     | ✔ |
+| Boa estruturação do projeto                                   | ✔ |
+| Desktop First                                                 | ✔ |
+| Commit’s legíveis, não commit ATÓMICO                         | ✔ |
 
 ### Como pode se destacar:
 
