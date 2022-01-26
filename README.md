@@ -13,8 +13,8 @@ Instruções Básicas:
 ### Requisitos
 
 O desenvolvimento precisa contemplar as 4 operações de CRUD, ou seja, inserir, selecionar, alterar e excluir um registro. 
-Tela de login
 
+- Tela de login
 - Tela de recuperação senha
 - Tela de cadastro de cliente
 - Tela de exibição de cliente
